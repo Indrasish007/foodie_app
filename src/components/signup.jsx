@@ -92,3 +92,4 @@ const SignUp = () => {
 };
 
 export default SignUp;
+// sign up page
